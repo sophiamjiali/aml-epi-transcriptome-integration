@@ -6,7 +6,7 @@ An R-based, automated, and reproducible workflow for integrated DNA methylation 
 
 ## Table of Contents
 - [Installation](#installation)
-  - [Prerequisites(#prerequisites)
+  - [Prerequisites](#prerequisites)
   - [Dependency Installation](#dependency-installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
