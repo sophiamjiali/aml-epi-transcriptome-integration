@@ -20,7 +20,7 @@ An R-based, automated, and reproducible workflow for integrated DNA methylation 
 
 ## Repository Layout
 The following repository layout includes the provided BeatAML example dataset. 
-
+<details><summary>Repository layout</summary>
 ```bash
 .
 ├── config/
