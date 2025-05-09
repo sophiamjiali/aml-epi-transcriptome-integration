@@ -86,6 +86,7 @@ The following repository layout includes the provided BeatAML example dataset.
 │
 ├── run_pipeline.R
 └── README.md
+```
 </details>
 
 ## Installation
